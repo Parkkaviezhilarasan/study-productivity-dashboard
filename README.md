@@ -1,5 +1,3 @@
-# study-productivity-dashboard
-
 # 📊 Study Productivity Dashboard
 
 An Excel-based dashboard designed to track daily study habits and analyze productivity trends.
